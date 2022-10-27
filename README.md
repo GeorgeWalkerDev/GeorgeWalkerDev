@@ -1,4 +1,4 @@
-### Hi! 👋  I'm George Walker, a Web Developer
+### Hi! 👋  I'm George Walker, a Software Engineer
 
 #### 👨 Overview
 
