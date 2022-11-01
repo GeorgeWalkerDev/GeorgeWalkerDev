@@ -24,4 +24,4 @@ My name is George and I'm a creative, detail-oriented, software engineer with a 
 
 #### ✉️ Contact
 
-You can find me on [LinkedIn](https://https://www.linkedin.com/in/georgewalkerdev/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/georgewalkerdev/)
