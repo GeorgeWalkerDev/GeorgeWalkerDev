@@ -13,7 +13,7 @@ My name is George and I'm a creative, detail-oriented, software engineer with a 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a)
 
-#### 📈 Github Stats
+<!-- #### 📈 Github Stats
 
 <a href="https://github.com/GeorgeWalkerDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeWalkerDev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -21,7 +21,7 @@ My name is George and I'm a creative, detail-oriented, software engineer with a 
 <a href="https://github.com/GeorgeWalkerDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeWalkerDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
+ -->
 #### ✉️ Contact
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/georgewalkerdev/)
